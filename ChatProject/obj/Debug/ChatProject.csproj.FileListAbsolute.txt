@@ -1,0 +1,39 @@
+E:\Projects\Visual Studio\ChatProject\ChatProject\bin\Debug\ChatProject.exe.config
+E:\Projects\Visual Studio\ChatProject\ChatProject\bin\Debug\ChatProject.exe
+E:\Projects\Visual Studio\ChatProject\ChatProject\bin\Debug\ChatProject.pdb
+E:\Projects\Visual Studio\ChatProject\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\ChatProject\ChatProject\obj\Debug\ChatProject.Form1.resources
+E:\Projects\Visual Studio\ChatProject\ChatProject\obj\Debug\ChatProject.Properties.Resources.resources
+E:\Projects\Visual Studio\ChatProject\ChatProject\obj\Debug\ChatProject.csproj.GenerateResource.Cache
+E:\Projects\Visual Studio\ChatProject\ChatProject\obj\Debug\ChatProject.exe
+E:\Projects\Visual Studio\ChatProject\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\bin\Debug\ChatProject.exe.config
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\bin\Debug\ChatProject.exe
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.Form1.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.Properties.Resources.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.csproj.GenerateResource.Cache
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.exe
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.ConfigurationForm.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\bin\Debug\ChatProject.exe.config
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\bin\Debug\ChatProject.exe
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.ConfigurationForm.resources
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.Form1.resources
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.Properties.Resources.resources
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.csproj.GenerateResource.Cache
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.exe
+C:\Users\gomes\Desktop\G\Programs those works\ChatProject\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\bin\Debug\ChatProject.exe.config
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\bin\Debug\ChatProject.exe
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.ConfigurationForm.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.Form1.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.Properties.Resources.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.csproj.GenerateResource.Cache
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.exe
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\obj\Debug\ChatProject.pdb

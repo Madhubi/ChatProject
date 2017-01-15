@@ -1,0 +1,9 @@
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\bin\Release\ChatProject.exe.config
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\bin\Release\ChatProject.exe
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\bin\Release\ChatProject.pdb
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Release\ChatProject.ConfigurationForm.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Release\ChatProject.Form1.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Release\ChatProject.Properties.Resources.resources
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Release\ChatProject.csproj.GenerateResource.Cache
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Release\ChatProject.exe
+C:\Users\gomes\Documents\Visual Studio 2015\Projects\ChatProject\ChatProject\ChatProject\obj\Release\ChatProject.pdb
